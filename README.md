@@ -10,9 +10,9 @@
 
 ## 🚀 Skills
 - **Languages**: Python, SQL, R
-- **Tools & Platforms**: Snowflake, Tableau, Power BI, Snowflake, Databricks, Git
+- **Tools & Platforms**: Snowflake, Tableau, Power BI, Snowflake, Databricks, Quicksight, AWS
 - **Frameworks**: Pandas, NumPy, Matplotlib, Seaborn
-- **Other**: CI/CD, Data Modeling
+- **Other**: CI/CD, Data Modeling, Excel
 
 ## 🌟 Projects
 - **[Spend Tracker](https://github.com/username/spend-tracker)**: Automated spend tracking for Small Business Card using Python and Snowflake.
