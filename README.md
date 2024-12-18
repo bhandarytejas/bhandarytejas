@@ -22,5 +22,5 @@
 
 ## 📫 Contact Me
 - **Email**: bhandarytejas92@gmail.com
-- **LinkedIn**: [linkedin.com/in/TejasBhandari]([https://www.linkedin.com/in/TejasBhandari](https://www.linkedin.com/in/bhandaritejas/)) 
-- **GitHub**: [https://github.com/TejasBhandari]((https://github.com/bhandarytejas))
+- **LinkedIn**: ([https://www.linkedin.com/in/TejasBhandari](https://www.linkedin.com/in/bhandaritejas/)) 
+- **GitHub**:([https://github.com/TejasBhandari](https://github.com/bhandarytejas))
