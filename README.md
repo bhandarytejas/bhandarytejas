@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm Tejas Bhandari
 
-<!--
-**bhandarytejas/bhandarytejas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Senior Data Analyst | 🚀 Passionate about Data Visualization and Automation | 📊 SQL, Tableau, Python
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently learning **CI/CD pipelines** and enhancing my skills in **Power BI**.
+- 💼 7+ years of experience in **Data Analytics** and **Business Intelligence**.
+- 💡 Passionate about creating insights through **data visualization** and **data pipelines**.
+- 📍 Based in Virginia, USA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages**: Python, SQL, R
+- **Tools & Platforms**: Snowflake, Tableau, Power BI, Snowflake, Databricks, Git
+- **Frameworks**: Pandas, NumPy, Matplotlib, Seaborn
+- **Other**: CI/CD, Data Modeling
+
+## 🌟 Projects
+- **[Spend Tracker](https://github.com/username/spend-tracker)**: Automated spend tracking for Small Business Card using Python and Snowflake.
+- **[PPP Loan Pipeline](https://github.com/username/ppp-loan-pipeline)**: Built data pipelines for loan origination using Databricks and Python.
+- **[Tableau Dashboards](https://github.com/username/tableau-dashboards)**: Enhanced executive dashboards for strategic insights.
+
+## 📈 GitHub Stats
+![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasBhandari&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasBhandari&layout=compact&theme=radical)
+
+## 📫 Contact Me
+- **Email**: bhandarytejas92@gmail.com
+- **LinkedIn**: [linkedin.com/in/TejasBhandari]([https://www.linkedin.com/in/TejasBhandari](https://www.linkedin.com/in/bhandaritejas/)) 
+- **GitHub**: [https://github.com/TejasBhandari]((https://github.com/bhandarytejas))
