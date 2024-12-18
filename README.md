@@ -19,9 +19,6 @@
 - **[PPP Loan Pipeline](https://github.com/username/ppp-loan-pipeline)**: Built data pipelines for loan origination using Databricks and Python.
 - **[Tableau Dashboards](https://github.com/username/tableau-dashboards)**: Enhanced executive dashboards for strategic insights.
 
-## 📈 GitHub Stats
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasBhandari&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasBhandari&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 - **Email**: bhandarytejas92@gmail.com
