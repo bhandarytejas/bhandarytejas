@@ -7,9 +7,17 @@
 - 📍 Based in Virginia, USA.
 
 ## 🌟 Projects
-- **[Spend Tracker](https://github.com/username/spend-tracker)**: Automated spend tracking for Small Business Card using Python and Snowflake.
-- **[PPP Loan Pipeline](https://github.com/username/ppp-loan-pipeline)**: Built data pipelines for loan origination using Databricks and Python.
-- **[Tableau Dashboards](https://github.com/username/tableau-dashboards)**: Enhanced executive dashboards for strategic insights.
+- **[E-Commerce Recommendation System](https://github.com/bhandarytejas/recommendation_system)**:
+  - Automated spend tracking for Small Business Card using Python and Snowflake.
+- **[Online Education Market](https://github.com/bhandarytejas/Online_Education_Market)**:
+  - Built data pipelines for loan origination using Databricks and Python.
+- **[FIFA-World-Cup-Analysis](https://github.com/bhandarytejas/FIFA-World-Cup-Analysis)**: 
+  - Enhanced executive dashboards for strategic insights.
+- **[Text Mining and Social Network Analysis on Airlines Customer Tweets](https://github.com/bhandarytejas/Text-Mining-and-Social-Network-Analysis-on-Airline-Customer-Tweets)**
+  - Analyzed the overall sentiments of customers/clients using sentiment analysis and the key topics from tweets about each airline to be used as a feedback system.
+- **[Disaster-Management-System-for-Flood-Mitigation](https://github.com/bhandarytejas/Disaster-Management-System-for-Flood-Mitigation)**:
+  - Analysed tweets during Hurricane Sandy across the east coast of USA
+
 
 
 ## 📫 Contact Me
