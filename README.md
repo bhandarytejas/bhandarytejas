@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tejas Bhandari</h1>
 <h3 align="center">🔍 Senior Data Analyst | 🚀 Passionate about Data Visualization and Automation | 📊 SQL, Tableau, Python, Data Science</h3>
 
+
 ## About Me
 - 💼 7+ years of experience in **Data Analytics** and **Business Intelligence**.
 - 💡 Passionate about solving complex problems and deriving actionable insights to drive data-driven solutions.
+
 
 ## 🌟 Projects
 - **[E-Commerce Recommendation System](https://github.com/bhandarytejas/recommendation_system)**:
@@ -18,11 +20,11 @@
   - Analysed tweets during Hurricane Sandy across the east coast of USA
 
 
-
 ## 📫 Contact Me
 - **Email**:     bhandarytejas92@gmail.com
 - **LinkedIn**:  [linkedin.com/in/bhandaritejas/](https://www.linkedin.com/in/bhandaritejas/)
 - **GitHub**:    [github.com/bhandarytejas](https://github.com/bhandarytejas)
+
 
 ## Skills, Languages and Tools:</h3>
 <p align="left"> 
@@ -40,8 +42,7 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  
+  </a>   
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
   </a> 
