@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tejas Bhandari</h1>
-<h3 align="center">🔍 Senior Data Analyst | 🚀 Passionate about Data Visualization and Automation | 📊 SQL, Tableau, Python</h3>
+<h3 align="center">🔍 Senior Data Analyst | 🚀 Passionate about Data Visualization and Automation | 📊 SQL, Tableau, Python, Data Science</h3>
 
 ## About Me
 - 💼 7+ years of experience in **Data Analytics** and **Business Intelligence**.
-- 💡 Passionate about creating insights through **data visualization** and **data pipelines**.
-- 📍 Based in Virginia, USA.
+- 💡 Passionate about solving complex problems and deriving actionable insights to drive data-driven solutions.
 
 ## 🌟 Projects
 - **[E-Commerce Recommendation System](https://github.com/bhandarytejas/recommendation_system)**:
