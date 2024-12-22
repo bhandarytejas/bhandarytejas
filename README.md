@@ -9,15 +9,15 @@
 
 ## 🌟 Projects
 - **[E-Commerce Recommendation System](https://github.com/bhandarytejas/recommendation_system)**:
-  - Automated spend tracking for Small Business Card using Python and Snowflake.
+  - Developing a product recommendation system for Amazon using user rating data.
 - **[Online Education Market](https://github.com/bhandarytejas/Online_Education_Market)**:
-  - Built data pipelines for loan origination using Databricks and Python.
+  - Developed a machine learning model to predict lead conversion to paid customers, identifying key conversion drivers and profiling high-potential leads.
 - **[FIFA-World-Cup-Analysis](https://github.com/bhandarytejas/FIFA-World-Cup-Analysis)**: 
   - Enhanced executive dashboards for strategic insights.
 - **[Text Mining and Social Network Analysis on Airlines Customer Tweets](https://github.com/bhandarytejas/Text-Mining-and-Social-Network-Analysis-on-Airline-Customer-Tweets)**
   - Analyzed the overall sentiments of customers/clients using sentiment analysis and the key topics from tweets about each airline to be used as a feedback system.
 - **[Disaster-Management-System-for-Flood-Mitigation](https://github.com/bhandarytejas/Disaster-Management-System-for-Flood-Mitigation)**:
-  - Analysed tweets during Hurricane Sandy across the east coast of USA
+  - Analysed tweets during Hurricane Sandy across the east coast of the USA
 
 
 ## 📫 Contact Me
@@ -26,7 +26,7 @@
 - **GitHub**:    [github.com/bhandarytejas](https://github.com/bhandarytejas)
 
 
-## Skills, Languages and Tools:</h3>
+## Skills, Languages, and Tools:</h3>
 <p align="left"> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="tableau" width="40" height="40"/> 
