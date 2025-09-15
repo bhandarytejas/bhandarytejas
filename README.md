@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Bhandari</h1>
-<h3 align="center">🔍 Senior Data Analyst | 🚀 Passionate about Data Visualization and Automation | 📊 SQL, Tableau, Python, Data Science</h3>
+<h3 align="center">🔍 Senior Data Analyst | 🚀 Passionate about Transforming Financial Data into Actionable BI Insights | 📊 SQL, Tableau, Python, Data Science</h3>
 
 
 ## About Me
