@@ -27,7 +27,7 @@
 
 
 ## Skills, Languages, and Tools:</h3>
-- **Languages:** Python, SQL, R, Java, SAS, Bash
+- **Languages:** Python, SQL, Java, SAS, Bash
 - **Machine Learning & Deep Learning:** scikit‑learn, TensorFlow, PyTorch, XGBoost, LightGBM, OpenCV
 - **Data Science & AI:** NLP, LLMs, Time‑Series Forecasting
 - **Data Engineering:** Apache Spark, Alteryx, Kafka, AWS Glue, ETL Pipelines, Docker, Kubernetes
